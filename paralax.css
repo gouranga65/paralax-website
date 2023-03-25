@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#img1,#img2,#Img3{
+    position: relative;
+}
+img{
+    height: 400px;
+}
+.photo{
+    object-fit: cover;
+    width: 100%;
+}
+.font{
+    top: 45%;
+    left: 38%;
+    color: aliceblue;
+    position: absolute;
+    font-size: 30px;
+}
+.text h2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+}
+.text h3{
+    text-align: center;
+    position: static;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#footer{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a{
+    text-decoration: none;
+    font-size: 1.5em;
+}
+.link{
+    text-align: right;
+
+}
